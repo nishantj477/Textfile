@@ -1,3 +1,4 @@
 I am a first line.
 I am a second line.
 This is seen only on firstbranch.
+This is seen on master branch.
